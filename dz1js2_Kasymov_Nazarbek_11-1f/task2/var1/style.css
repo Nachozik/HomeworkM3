@@ -1,0 +1,12 @@
+.telInput {
+    width: 15px;
+}
+.first {
+    width: 25px;
+}
+#tels {
+    display: flex;
+    flex-direction: column;
+    background-color: #aaa;
+    text-align: center;
+}
